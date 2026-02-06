@@ -1,6 +1,6 @@
 # This warehouse is developed based on the orangepi 5pro and Ubuntu 22.04.
 
-The file structure is as follows:
+The important file are as follows:
 
     DeepSeek-V3及Yolov5部署总代码: Planet_Project
     Yolov5板端推理代码: Digital_detection、Object_detection
