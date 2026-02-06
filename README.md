@@ -1,4 +1,6 @@
-本仓库文件结构如下:
+# 本仓库基于orangepi 5pro及ubuntu 22.04开发
+
+文件结构如下:
 
     DeepSeek-V3及Yolov5部署总代码: Planet_Project
     Yolov5板端推理代码: Digital_detection、Object_detection
