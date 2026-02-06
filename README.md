@@ -1,12 +1,7 @@
 本仓库文件结构如下：
 
-    1.Miniconda软件包
-    2.yolov5各类版本
-    3.各类版本RKNN包
-    4.数据集
-    5.开发板端推理代码
-    6.批量拍照代码
-    7.数据标注软件
+    奥比中光深度相机驱动代码：depth_sensor
+    大语言模型及yolo部署完整代码：Planet_Project、text_ollama、text_openai
 文档：
 
     RK系列开发板部署yolov5
